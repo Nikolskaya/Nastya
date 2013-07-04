@@ -1,0 +1,13 @@
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\bin\Debug\pro.exe
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\bin\Debug\pro.pdb
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\MainWindow.baml
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.g.resources
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.exe
+c:\users\asus\documents\visual studio 2010\Projects\pro\pro\obj\x86\Debug\pro.pdb
